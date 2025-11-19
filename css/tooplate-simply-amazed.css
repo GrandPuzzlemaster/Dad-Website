@@ -799,9 +799,9 @@ textarea.form-control {
 
 /* <<< Work Side >>> */
 .work-section {
-  padding-top: 90px !important;
+
   padding-bottom: 90px !important;
-  min-height: 850px;
+  min-height: 550px;
   background-color: #6699cc;
 }
 
@@ -823,9 +823,7 @@ textarea.form-control {
   }
 }
 
-.work-section .item.one {
-  margin-top: 80px;
-}
+
 
 @media (max-width: 767px) {
   .work-section .item.one {
